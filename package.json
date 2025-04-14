@@ -14,5 +14,18 @@
     "mongodb": "^6.15.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^10.0.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "nodemon": "^3.1.9",
+    "webpack": "^5.99.5",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-middleware": "^7.4.2",
+    "webpack-hot-middleware": "^2.26.1",
+    "webpack-node-externals": "^3.0.0"
   }
 }

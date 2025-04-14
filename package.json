@@ -8,5 +8,11 @@
   "keywords": [],
   "author": "Tia Widi",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
 }
